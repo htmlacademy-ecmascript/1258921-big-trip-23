@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Michael Melnikov](https://up.htmlacademy.ru/ecmascript/23/user/1258921).
-* Наставник: `Неизвестно`.
+* Наставник: `Сергей Рожков`(https://htmlacademy.ru/profile/id1069033).
 
 ---
 
